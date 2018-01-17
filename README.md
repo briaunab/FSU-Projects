@@ -1,2 +1,2 @@
-# LIS3784
-Advanced Database Management
+# FSU Projects
+This GitHub is dedicated to documenting some of the coding projects I've done at my time at FSU.
